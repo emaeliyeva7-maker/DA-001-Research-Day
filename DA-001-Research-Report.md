@@ -1,18 +1,12 @@
 # DA-001: Research Day – Data Analytics World
 
-**Name:** Your Name
+**Name:** Elmira Aliyeva
 
 **Team:** Software Village Data Analytics
 
 **Date:** 18 November 2026
 
----
-
-## Introduction
-
-## Part 1: What is Data Analytics?
-
-### 1.1 Definition of Data Analytics
+## Part 1: Data Analytics nədir?
 
 ### 1.2 Importance of Data Analytics
 
